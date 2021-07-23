@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+Im **David** 🐱‍👓
+
+🐱‍💻 Backend developer
+
+### Tecnologies
+<img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" > <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" > <img width="70" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
 <!--
 **davidjimenez92/davidjimenez92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
