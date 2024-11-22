@@ -1,22 +1,35 @@
-## Hi there 👋
+# David Jimenez
 
-Im **David** 🐱‍👓
+👋 Hi, I'm David Jimenez, a **Full Stack Developer** aged 32, specialized in **backend** development. I have experience working with various technologies and a focus on creating robust and scalable applications.
 
-🐱‍💻 Backend developer
+## About Me
 
-### Tecnologies
-<img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" > <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" > <img width="70" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
-<!--
-**davidjimenez92/davidjimenez92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a proactive individual with a strong ability to work in teams and a passion for tackling challenges. Throughout my career, I have worked on multiple projects, ranging from web applications to backend systems, always seeking to improve my skills and learn new technologies.
 
-Here are some ideas to get you started:
+## Technologies I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**: 
+  - .NET Core
+  - Go
+- **Frontend**: 
+  - Angular
+
+## Skills
+
+- Development of RESTful APIs
+- Software design and architecture
+- Implementation of patterns such as DDD (Domain-Driven Design) and Clean Architecture
+- Experience with SQL and NoSQL databases
+
+## Featured Projects
+
+- [CleanArchitectureDDD](https://github.com/davidjimenez92/CleanArchitectureDDD): A project for managing a car rental business using DDD and Clean Architecture.
+
+## Contact
+
+If you want to collaborate or just talk about technology, feel free to reach out!
+
+- 📧 Email: [djimenez92@outlook.es](mailto:djimenez92@outlook.es@example.com)
+- 🌐 LinkedIn: [David Jimenez Miguel]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/davidjimenezmiguel/))
+
+Thanks for visiting my profile!
