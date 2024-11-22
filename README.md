@@ -30,6 +30,6 @@ I am a proactive individual with a strong ability to work in teams and a passion
 If you want to collaborate or just talk about technology, feel free to reach out!
 
 - 📧 Email: [djimenez92@outlook.es](mailto:djimenez92@outlook.es@example.com)
-- 🌐 LinkedIn: [David Jimenez Miguel]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/davidjimenezmiguel/))
+- 🌐 LinkedIn: [David Jimenez Miguel](https://www.linkedin.com/in/davidjimenezmiguel/)
 
 Thanks for visiting my profile!
